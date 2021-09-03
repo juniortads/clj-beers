@@ -1,1 +1,1 @@
-# clj-hello
+# clj-beers
